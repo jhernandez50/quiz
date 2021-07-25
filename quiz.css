@@ -1,0 +1,23 @@
+.choice-box {
+    display: flex;
+    margin-bottom: 1px;
+    width: 50%;
+    font-size: 1rem;
+    border: 0.1rem solid rgba(35, 102, 160, 0.25);
+    background-color: white;
+  }
+  
+  .choices {
+    padding: 1px;
+    width: 100%;
+  }
+  
+  .correct {
+    background-color: #ddf8e3;
+  }
+  
+  .incorrect {
+    background-color: #f56977;
+  }
+
+  
